@@ -19,6 +19,6 @@ The user interface is based on [wxWidgets](https://www.wxwidgets.org/) and was m
 	title        = {SDM\_Plugin\_OSM4UBEM\_Analyzer},
 	author       = {{Fernanda Lourenzi}},
 	url          = {https://github.com/KIT-IAI/SDM_Plugin_OSM4UBEM_Analyzer},
-	date         = {2024}
+	date         = {2026}
 }
 ```
