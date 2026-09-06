@@ -1,7 +1,7 @@
 The software is licensed under MIT license
 
-Copyright 2024, Copyright Owner: Karlsruhe Institute of Technology (KIT)  
-Author: Fernanda Lourenzi
+Copyright 2026, Copyright Owner: Karlsruhe Institute of Technology (KIT)  
+Author: Fernanda Lourenzi  
 Contact: fernanda.vasconcellos2@kit.edu, Institute for Automation and Applied Informatics  
 
 ---
